@@ -21,7 +21,7 @@
             module["MaxAmmo"] = math.huge
             module["CurrentAmmo"] = math.huge
             module["StoredAmmo"] = math.huge
-            module["FireRate"] = 0.000001
+            module["FireRate"] = 0.500000
             module["Spread"] = 0
             module["Range"] = math.huge
             module["Bullets"] = 10
